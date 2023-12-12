@@ -1,0 +1,66 @@
+.item1
+    {
+        margin-left: 100px;
+        width: 455px;
+    height: 400px;
+    flex-shrink: 0;
+    grid-area: hero-description;
+    }
+    .item2
+    {
+        margin: 50px;
+        width: 457px;
+    height: 422px;
+    flex-shrink: 0;
+    grid-area:hero-image;
+    display: block;
+    }
+.hero-div
+{
+    width: 1440px;
+    height: 450px;
+    display:grid;
+    background-color: #29473d;
+    grid-template-columns: auto,auto;
+    grid-template-rows: auto;
+    grid-template-areas: 'hero-description hero-image';
+    
+}
+.item1> h1
+    {
+
+        color: #F4CE14;
+        font-family: Markazi Text;
+        font-size: 46px;
+        font-style:normal;
+    }
+    .item1>h3
+    {
+        color: #FFF;
+    font-family: Markazi Text;
+    font-size: 32px;
+    }
+    .item1> p
+    {
+      
+color: #FFF;
+
+font-family: Inter;
+font-size: 22px;
+font-style: normal;
+text-align:left
+    }
+    .Reserve-btn
+    {
+    width: 250px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 25px;
+    background: #F4CE14;
+    color: #FFF;
+    font-family: Markazi Text;
+    font-size:large;
+    font-style:normal;
+    font-weight:900;
+    }
+    
