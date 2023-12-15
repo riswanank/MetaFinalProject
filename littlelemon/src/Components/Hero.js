@@ -13,7 +13,7 @@ function Hero() {
                 <button class="Reserve-btn">Reserve Table</button>
             </div>
             <div class="item2">
-                <img src={require("./images/11.png")}></img>
+                <img src={require("../images/11.png")}></img>
             </div>
 
         </div>

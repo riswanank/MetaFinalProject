@@ -50,12 +50,12 @@
         line-height: normal;
         text-decoration: none;
         list-style-type: none;
-        float: right;
+        float:left;
         vertical-align:middle;
  
      
 }
-.nav-ul >li a {
+.nav-ul >li > a {
     
     color: rgb(22, 7, 7);
     text-align: center;
