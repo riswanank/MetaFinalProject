@@ -1,3 +1,7 @@
+import React from "react";
+import food1 from "../images/food1.avif"
+import { Link } from "react-router-dom";
+
 function Head ()
 {
     return (
@@ -7,8 +11,12 @@ function Head ()
             <meta name="og:title" content="Little Lemon Restaurant"/>
             <meta name="og:description" content="Little Lemon Restaurants Website to order food online"/>
             <meta name="og:image" content=""/>
+            
         </head>
+        
+
 
     );
 }
-export default Head;
+
+export default (Head);

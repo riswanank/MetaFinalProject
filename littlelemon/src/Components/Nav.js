@@ -17,9 +17,9 @@ function Nav() {
       <div class="menu">
         <br></br><br></br>
       <ul class="nav-ul">
-    <li><Link to="/">Home</Link></li>
+    <li><Link to="/home">Home</Link></li>
     <li><Link to="/about">About</Link></li>
-    <li><Link to="/reservation">Reservation</Link></li>
+    <li><Link to="/booking">Reservation</Link></li>
     <li><Link to="/order">Order online</Link></li>
    <li><Link to="/login">Login</Link></li>
 </ul>
