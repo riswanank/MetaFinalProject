@@ -1,4 +1,6 @@
+import BookingPage from './BookingPage';
 import   './Hero.css';
+import { Link as LinkR } from 'react-router-dom';
 function Hero() {
     return (
         <>
@@ -10,7 +12,9 @@ function Hero() {
                 focused on traditional recipes served with a modern 
                 twist.
                 </p>
-                <button class="Reserve-btn">Reserve Table</button>
+                <button type='submit' class="Reserve-btn" ><LinkR to='/booking' className='reserve-button'>
+          Reserve a Table
+        </LinkR></button>
             </div>
             <div class="item2">
                 <img src={require("../images/11.png")}></img>

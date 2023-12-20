@@ -58,11 +58,10 @@ const Main = () => {
     return(
         <main>
             <Routes>
-           
-                <Route path="/" element={<BookingPage availableTimes={state} dispatch={dispatch} submitForm={submitForm}/>} />
+                <Route path="/" element={<HomePage/>}/>
+                <Route path="/booking" element={<BookingPage />} />
                 <Route path="/confirmed" element={<ConfirmedBooking/> } />
-                <Route path="/home" element={<HomePage/>}/>
-                <Route path="/about" element={<About />} />
+                  <Route path="/about" element={<About />} />
                 <Route path="/order" element={<Onlineorder />} />
                 <Route path="/login" element={<SignIn />} />
             </Routes>

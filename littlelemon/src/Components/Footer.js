@@ -1,14 +1,14 @@
 import React from "react"
-import './Footer.css'
+import './Footer.css';
 function Footer ()
 {
     return (
-        <footer class="foot">
+        <div class="foot" >
         <section>
         <div class="logo1">
-            <img src={require('../images/logo1.png')} alt="logo"  />
+            <img src="" alt="logo"  />
         </div>
-        <div>
+        <div class="foot1">
             <h3>Document Navigation</h3>
         <ul>
             <li>Home</li>
@@ -19,24 +19,33 @@ function Footer ()
             <li>Login</li>
         </ul>
         </div>
-        <div>
+        <div class="foot2"> 
             <h3>Contact</h3>
         <ul>
-            <li>Address</li>
-            <li>Phone Number</li>
-            <li>Email</li>
+            <li>You may also want to visit us:<br/>
+Little Lemon
+331 E Chicago<br/>
+LaSalle Street Chicago, 
+<br/>Illinois 60602
+USA
+
+</li>
+            <li>jim@rock.com
+(311) 555-2368r</li>
+            <li>littlemon@bookings.com
+</li>
         </ul>
         </div>
-        <div>
+        <div class="foot3">
             <h3>Social Media Links</h3>
         <ul>
-            <li>Address</li>
-            <li>Phone Number</li>
-            <li>Email</li>
+            <li>Facebooks</li>
+            <li>Instagram</li>
+            <li>Twitter</li>
         </ul>
         </div>
         </section>
-    </footer>
+    </div>
 )
     }
 

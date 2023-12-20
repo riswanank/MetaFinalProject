@@ -1,10 +1,15 @@
+import Specials from "../Components/Specials";
+
 function HomePage()
 {
     return(
         <>
         <h1>
-            Home
+           
         </h1>
+        <div>
+      <Specials/>
+        </div>
         </>
 
     );
