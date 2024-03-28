@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.f0bf954d.css",
+    "main.js": "/react-gh-pages/static/js/main.98c164ee.js",
+    "static/js/453.8dae57ee.chunk.js": "/react-gh-pages/static/js/453.8dae57ee.chunk.js",
+    "static/media/greekSalad.jpg": "/react-gh-pages/static/media/greekSalad.bed423a1fab5b210e347.jpg",
+    "static/media/john.jpg": "/react-gh-pages/static/media/john.6b73fd246a999fb8e32e.jpg",
+    "static/media/andrea.jpg": "/react-gh-pages/static/media/andrea.bc130f63daeacfdc7b85.jpg",
+    "static/media/mark.jpg": "/react-gh-pages/static/media/mark.1f3e2a391e8eb0ab30f9.jpg",
+    "static/media/jane.jpg": "/react-gh-pages/static/media/jane.02f8c535dd070dee7de5.jpg",
+    "static/media/restaurant.jpg": "/react-gh-pages/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
+    "static/media/11.png": "/react-gh-pages/static/media/11.06752429fd34e5563be3.png",
+    "static/media/bruschetta.jpg": "/react-gh-pages/static/media/bruschetta.b4a592ec23a5c55ec102.jpg",
+    "static/media/food1.avif": "/react-gh-pages/static/media/food1.d0c2d4f42c8986624d3e.avif",
+    "static/media/location.svg": "/react-gh-pages/static/media/location.a591275f785335778cb0b2ff0daef539.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.f0bf954d.css.map": "/react-gh-pages/static/css/main.f0bf954d.css.map",
+    "main.98c164ee.js.map": "/react-gh-pages/static/js/main.98c164ee.js.map",
+    "453.8dae57ee.chunk.js.map": "/react-gh-pages/static/js/453.8dae57ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0bf954d.css",
+    "static/js/main.98c164ee.js"
+  ]
+}
