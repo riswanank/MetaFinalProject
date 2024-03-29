@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MetaFinalProject/littlelemon/static/css/main.f0bf954d.css",
-    "main.js": "/MetaFinalProject/littlelemon/static/js/main.20dce694.js",
-    "static/js/453.8dae57ee.chunk.js": "/MetaFinalProject/littlelemon/static/js/453.8dae57ee.chunk.js",
+    "main.js": "/MetaFinalProject/littlelemon/static/js/main.29dbf3e1.js",
+    "static/js/453.76ff1f29.chunk.js": "/MetaFinalProject/littlelemon/static/js/453.76ff1f29.chunk.js",
     "static/media/greekSalad.jpg": "/MetaFinalProject/littlelemon/static/media/greekSalad.bed423a1fab5b210e347.jpg",
     "static/media/john.jpg": "/MetaFinalProject/littlelemon/static/media/john.6b73fd246a999fb8e32e.jpg",
     "static/media/andrea.jpg": "/MetaFinalProject/littlelemon/static/media/andrea.bc130f63daeacfdc7b85.jpg",
@@ -15,11 +15,11 @@
     "static/media/location.svg": "/MetaFinalProject/littlelemon/static/media/location.a591275f785335778cb0b2ff0daef539.svg",
     "index.html": "/MetaFinalProject/littlelemon/index.html",
     "main.f0bf954d.css.map": "/MetaFinalProject/littlelemon/static/css/main.f0bf954d.css.map",
-    "main.20dce694.js.map": "/MetaFinalProject/littlelemon/static/js/main.20dce694.js.map",
-    "453.8dae57ee.chunk.js.map": "/MetaFinalProject/littlelemon/static/js/453.8dae57ee.chunk.js.map"
+    "main.29dbf3e1.js.map": "/MetaFinalProject/littlelemon/static/js/main.29dbf3e1.js.map",
+    "453.76ff1f29.chunk.js.map": "/MetaFinalProject/littlelemon/static/js/453.76ff1f29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0bf954d.css",
-    "static/js/main.20dce694.js"
+    "static/js/main.29dbf3e1.js"
   ]
 }
